@@ -3,10 +3,16 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Lindovský"
   given-names: "Dan"
-title: "experiments_evaluation"
+title: "Experiments Evaluation"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: "!tbd!"
 date-released: 2025-05-12
 url: "https://github.com/lindodan/experiments_evaluation"
 preferred-citation:
   type: generic
+authors:
+- family-names: "Lindovský"
+  given-names: "Dan"
+title: "Experiments Evaluation"
+url: "https://github.com/lindodan/experiments_evaluation"
+year: 2025
