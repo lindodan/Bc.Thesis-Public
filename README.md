@@ -19,16 +19,3 @@ Key parameters:
     * `box_dimensions`: A list defining the [width, height, depth] of the bounding box.
 * **Sphere Definition:**
     * `fixed_sphere_diameter`: A floating-point value for the diameter of all spheres.
-
-## Citation
-
-Feel free to cite me when you use some of my tutorials :)
-
-```bibtex
-@misc{lindovsky2025experimentsevaluation,
-  author = {Lindovský, Dan},
-  title = {Experiments evaluation},
-  url = {https://github.com/lindodan/experiments_evaluation},
-  year = {2025}
-}
-```
