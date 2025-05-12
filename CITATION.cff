@@ -3,12 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Lindovský"
   given-names: "Dan"
-title: "Experiments Measurements and Evaluation"
-preferred-citation:
-  type: generic
-  authors:
-- family-names: "Lindovský"
-  given-names: "Dan"
+title: "experiments_evaluation"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2025-05-12
