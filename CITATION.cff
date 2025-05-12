@@ -10,9 +10,9 @@ date-released: 2025-05-12
 url: "https://github.com/lindodan/experiments_evaluation"
 preferred-citation:
   type: generic
-authors:
-- family-names: "Lindovský"
-  given-names: "Dan"
-title: "Experiments Evaluation"
-url: "https://github.com/lindodan/experiments_evaluation"
-year: 2025
+  authors:
+  - family-names: "Lindovský"
+    given-names: "Dan"
+  title: "Experiments Evaluation"
+  url: "https://github.com/lindodan/experiments_evaluation"
+  year: 2025
