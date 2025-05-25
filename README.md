@@ -9,7 +9,7 @@ Measured values used for calculations and evaluation in Chapter 4.
 Data are stored in CSV files.
 
 ### 2 Used Code
-Folder strcture:
+Folder structure:
 
 ```
 scripts/
@@ -37,7 +37,7 @@ scripts/
 This supplementary code, presented in Jupyter notebooks, shows the visualization and evaluation of collision results from both exploration strategies Section 4.2.
 
 * `evaluation_collision_0.06.ipynb` : This notebook visualizes and evaluates collision data when the exploration strategy was performed with a 6 cm diameter.
-* `evaluation_collision_0.06.ipynb` : This notebook visualizes and evaluates collision data when the exploration strategy was performed with a 16 cm diameter.
+* `evaluation_collision_0.16.ipynb` : This notebook visualizes and evaluates collision data when the exploration strategy was performed with a 16 cm diameter.
 
 
 ## Prerequisites
@@ -54,3 +54,16 @@ Operating System (ROS), which communicated with the KUKA Sunrise cabinet.
 ### Robot Model
 -  KUKA LBR iiwa 7 R800, 7-degrees-of-freedom (7-DoF) collaborative robotic arm
 
+# Errata
+### Equation Formatting Correction:
+
+In Equation (3.6), the force components `F_x`, `F_y`, and `F_z` were incorrectly bolded. These are scalar components and should appear in normal font.
+
+**Corrected Equation (3.6):**
+
+$$
+\mathbf{F}_{0} = 
+\begin{bmatrix}
+F_{x} & F_{y} & F_{z}
+\end{bmatrix}^{\intercal}
+$$
